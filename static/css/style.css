@@ -88,6 +88,7 @@ body {
 
 .wrapper {
 	padding: 25px;
+	min-height: calc(100vh - 350px);
 	background: #fff;
 }
 
