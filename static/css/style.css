@@ -40,6 +40,10 @@ b, strong {
 	font-weight: 700;
 }
 
+i, em {
+	font-style: italic;
+}
+
 :focus::-webkit-input-placeholder {
 	color: transparent;
 }
